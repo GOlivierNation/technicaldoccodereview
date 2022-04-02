@@ -23,7 +23,7 @@ header {
   margin: 10px;
   text-align: center;
   font-size: 4px;
-  font-weight: thin;
+  font-weight: 10px;
 }
 
 #main-doc header {
@@ -32,7 +32,7 @@ header {
 }
 
 section li {
-  margin: 15px 0px 0px 20px;
+  margin: 15px 0 0 20px;
 }
 
 #navbar ul {
@@ -107,7 +107,7 @@ code {
 
   #main-doc {
     position: relative;
-    margin-left: 0px;
+    margin-left: 0;
     margin-top: 270px;
   }
 }
