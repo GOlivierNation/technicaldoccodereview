@@ -1,2 +1,1 @@
-
-const projectName = 'technical-docs-page';
+// const projectName = 'technical-docs-page';
